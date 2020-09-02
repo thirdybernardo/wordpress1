@@ -1,0 +1,145 @@
+2020-09-02 07:00:30
+PHP VERSION 7.4.6
+OS VERSION Windows NT DESKTOP-S4E5503 10.0 build 18362 (Windows 10) AMD64
+WP VERSION 5.5.1
+WP URL http://localhost/wordpress1
+WP SITEURL http://localhost/wordpress1
+WP HOME http://localhost/wordpress1
+WP ADDRESS http://localhost/wordpress1
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://thirdybernardo.github.io/wordpress1/
+PERMALINK STRUCTURE /%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.6
+Active plugins:
+package/wp2static.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gd
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /feed/
+Adding discovered URL: /comments/feed/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-content/themes/twentytwenty/style.css
+Adding discovered URL: /wp-content/themes/twentytwenty/print.css
+Adding discovered URL: /wp-content/themes/twentytwenty/assets/js/index.js
+Adding discovered URL: /wp-json/
+Adding discovered URL: /
+Adding discovered URL: /sample-page/
+Adding discovered URL: /category/uncategorized/
+Adding discovered URL: /2020/09/02/hello-world/
+Adding discovered URL: /author/admin/
+Adding discovered URL: /2020/09/
+SAVING / to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030030/index.html
+Memory allocated by crawl script: 2048
