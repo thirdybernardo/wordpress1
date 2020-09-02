@@ -159,3 +159,145 @@ Exclusion rules wp-json
 Crawling /favicon.ico
 BAD RESPONSE STATUS (404): /favicon.ico
 Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+SAVING /page/1 to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/page/1/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sample-page/
+SAVING /sample-page/ to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/\/sample-page/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /sitemap.xml
+SAVING /sitemap.xml to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/\/sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress1/
+SAVING /wordpress1/ to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/\/wordpress1/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wordpress1/2020/
+SAVING /wordpress1/2020/ to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wordpress1/2020/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wordpress1/2020/09/
+SAVING /wordpress1/2020/09/ to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wordpress1/2020/09/index.html
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wordpress1/2020/09/02/
+SAVING /wordpress1/2020/09/02/ to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wordpress1/2020/09/02/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress1/2020/09/02/hello-world/
+SAVING /wordpress1/2020/09/02/hello-world/ to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wordpress1/2020/09/02/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wordpress1/sample-page/
+SAVING /wordpress1/sample-page/ to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wordpress1/sample-page/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block-rtl.css to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\css/editor-style-block-rtl.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-block.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-block.css to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\css/editor-style-block.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic-rtl.css to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\css/editor-style-classic-rtl.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css
+SAVING /wp-content/themes/twentytwenty\assets\css\editor-style-classic.css to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\css/editor-style-classic.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-italic-var.woff2 to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-italic-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2
+SAVING /wp-content/themes/twentytwenty\assets\fonts\inter\Inter-upright-var.woff2 to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\fonts\inter/Inter-upright-var.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-1.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-landscape-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-landscape-2.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-landscape-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-1.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-square-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-square-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-square-2.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-square-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-1.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-1.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-2.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-2.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-3.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-3.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png
+SAVING /wp-content/themes/twentytwenty\assets\images\2020-three-quarters-4.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\images/2020-three-quarters-4.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\color-calculations.js
+SAVING /wp-content/themes/twentytwenty\assets\js\color-calculations.js to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\js/color-calculations.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-controls.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-controls.js to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\js/customize-controls.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize-preview.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize-preview.js to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\js/customize-preview.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\customize.js
+SAVING /wp-content/themes/twentytwenty\assets\js\customize.js to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\js/customize.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\editor-script-block.js
+SAVING /wp-content/themes/twentytwenty\assets\js\editor-script-block.js to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\js/editor-script-block.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\index.js
+SAVING /wp-content/themes/twentytwenty\assets\js\index.js to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\js/index.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js
+SAVING /wp-content/themes/twentytwenty\assets\js\skip-link-focus-fix.js to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty\assets\js/skip-link-focus-fix.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\package-lock.json
+SAVING /wp-content/themes/twentytwenty\package-lock.json to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty/package-lock.json
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\print.css
+SAVING /wp-content/themes/twentytwenty\print.css to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty/print.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\screenshot.png
+SAVING /wp-content/themes/twentytwenty\screenshot.png to C:/xampp/htdocs/wordpress1/wp-content/uploads/wp-static-html-output-1599030243/wp-content/themes/twentytwenty/screenshot.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/twentytwenty\style-rtl.css
