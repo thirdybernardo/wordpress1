@@ -1,0 +1,9 @@
+/2020/09/
+/author/admin/
+/comments/feed/
+/feed/
+/wp-content/themes/twentytwenty/assets/js/index.js
+/wp-content/themes/twentytwenty/print.css
+/wp-content/themes/twentytwenty/style.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/

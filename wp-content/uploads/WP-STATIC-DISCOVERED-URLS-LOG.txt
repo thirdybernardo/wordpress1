@@ -1,0 +1,13 @@
+/
+/2020/09/
+/2020/09/02/hello-world/
+/author/admin/
+/category/uncategorized/
+/comments/feed/
+/feed/
+/sample-page/
+/wp-content/themes/twentytwenty/assets/js/index.js
+/wp-content/themes/twentytwenty/print.css
+/wp-content/themes/twentytwenty/style.css
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/
